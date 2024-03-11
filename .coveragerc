@@ -1,0 +1,6 @@
+[run]
+branch = True
+source = neutron-encryption
+
+[report]
+ignore_errors = True
